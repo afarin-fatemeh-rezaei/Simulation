@@ -152,12 +152,7 @@ The coarse-grained entropy increases monotonically and saturates at equilibrium,
 
 ### Outputs
 
-The outputs are stored in `equilibrium/System Reaching Equilibrium outputs/` and include:
-- Temperature evolution data
-- Velocity distribution histograms
-- Speed distribution histograms
-- Entropy evolution data
-- Plots showing equilibration
+The outputs are stored in `equilibrium/System Reaching Equilibrium outputs/` 
 
 ---
 
@@ -236,12 +231,6 @@ The melting process is visualized through:
 
 The outputs are stored in `melting/System Melting outputs/` and include:
 
-| File | Description |
-|------|-------------|
-| `lattice_transformation.png` | Square lattice → triangular solid transformation |
-| `melting_snapshots.png` | Time-lapse snapshots with vibrational trails |
-| `msd_melting.png` | Mean squared displacement evolution |
-| `energy_temperature.png` | Energy components and temperature evolution |
 
 ---
 
