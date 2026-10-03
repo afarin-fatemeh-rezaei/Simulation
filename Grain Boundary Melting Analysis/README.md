@@ -1,8 +1,4 @@
-# `README.md`
 
-Save at `Grain Boundary Melting Analysis/README.md`.
-
-```markdown
 # Grain Boundary Melting Analysis
 
 Molecular-dynamics study of grain-boundary premelting in a 2D Lennard-Jones
